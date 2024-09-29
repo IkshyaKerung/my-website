@@ -1,0 +1,31 @@
+h1{
+    color: violet;
+    font-family:times new roman;
+    font-size:40px;
+    text-align:center;
+  }
+  .left{
+    float:left;
+    
+    margin-top: 200px;
+    margin-left: 200px;
+    margin-bottom: 50px;
+    text-align:left;
+  }
+  p{
+    font-size: 30px;
+  }
+  body{
+    background-color: lavenderblush;
+  
+  }
+  .container{
+    float:right;
+    width:500px;
+    height: 400px;
+    margin-top: 150px;
+    margin-bottom: 500px;
+    margin-right: 200px;
+
+    text-align: center;
+  }
